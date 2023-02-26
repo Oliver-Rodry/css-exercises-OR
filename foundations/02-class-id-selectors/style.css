@@ -1,0 +1,21 @@
+/* Exercise Number 2 of TOP */
+
+.Class.Odd {
+    background-color: #FA8072;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.Class.Odd.Cooler {
+        font-size: 24px;
+}
+
+#Number2 {
+    color:#16b8f3;
+    font-size: 36px;
+}
+
+#Number4 {
+    background-color: #CCFFBB;
+    font-size: 24px;
+    font-weight: bold;
+}
